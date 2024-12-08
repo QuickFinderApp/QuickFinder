@@ -22,7 +22,9 @@ QuickFinder is a cross-platform keystroke launcher, featuring commands, applicat
 - [ ] Theming (progress started!)
 - [ ] External Plugins (Compatable with Raycast Extensions)
 
-## Latest Installers (v0.0.18)
+## Latest Installers
+
+Current Version: v0.0.18
 
 macOS:
 
