@@ -3,6 +3,7 @@
 QuickFinder is a cross-platform keystroke launcher, featuring commands, applications and tons of useful actions!
 
 ## Previews
+
 ![Screenshot 2024-12-05 at 5 36 02 PM](https://github.com/user-attachments/assets/e00d8b6a-f9b8-4025-a3cb-e9cf352aa476)
 ![image](https://github.com/user-attachments/assets/b8ec276f-0b1c-4a95-9ceb-0858bfe8a1fb)
 
@@ -13,11 +14,27 @@ QuickFinder is a cross-platform keystroke launcher, featuring commands, applicat
 - [x] Windows
 
 ## Features
+
 - [x] Confetti
 - [x] App Launcher (macOS, Linux & Windows)
 - [x] System Commands (Shut Down, Reboot, etc)
+- [ ] Settings (Run on Boot, Spotter Hotkey, etc)
 - [ ] Theming (progress started!)
 - [ ] External Plugins (Compatable with Raycast Extensions)
+
+## Latest Installers (v0.0.18)
+
+macOS:
+
+```bash
+curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quickfinder-macos.dmg
+```
+
+[Linux (deb)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quick-finder-amd64-installer.deb)
+
+[Linux (rpm)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quick-finder-x86_64-installer.rpm)
+
+[Windows](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quickfinder-windows-installer.exe)
 
 ## Downloading
 
