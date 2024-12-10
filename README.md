@@ -29,14 +29,14 @@ Current Version: v0.0.18
 macOS:
 
 ```bash
-curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quickfinder-macos.dmg
+curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quickfinder-macos.dmg
 ```
 
-[Linux (deb)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quick-finder-amd64-installer.deb)
+[Linux (deb)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quick-finder-amd64-installer.deb)
 
-[Linux (rpm)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quick-finder-x86_64-installer.rpm)
+[Linux (rpm)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quick-finder-x86_64-installer.rpm)
 
-[Windows](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.18/quickfinder-windows-installer.exe)
+[Windows](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quickfinder-windows-installer.exe)
 
 ## Downloading
 
