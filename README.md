@@ -18,7 +18,7 @@ QuickFinder is a cross-platform keystroke launcher, featuring commands, applicat
 - [x] Confetti
 - [x] App Launcher (macOS, Linux & Windows)
 - [x] System Commands (Shut Down, Reboot, etc)
-- [ ] Settings (Run on Boot, Spotter Hotkey, etc)
+- [x] Settings (Run on Boot, Spotter Hotkey, etc)
 - [ ] Theming (progress started!)
 - [ ] External Plugins (Compatable with Raycast Extensions)
 
