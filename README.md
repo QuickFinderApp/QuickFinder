@@ -29,7 +29,7 @@ Current Version: v0.0.18
 macOS:
 
 ```bash
-curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quickfinder-macos.dmg
+curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quickfinder-macos-installer.dmg
 ```
 
 [Linux (deb)](https://github.com/QuickFinderApp/QuickFinder/releases/download/v0.0.19/quick-finder-amd64-installer.deb)
@@ -47,7 +47,7 @@ To download, go to [releases](https://github.com/QuickFinderApp/QuickFinder/rele
 If you are downloading the macOS version of the app, use this command:
 
 ```bash
-curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/<release>/quickfinder-macos.dmg
+curl -LO https://github.com/QuickFinderApp/QuickFinder/releases/download/<release>/quickfinder-macos-installer.dmg
 ```
 
 If you just download it from your browser, it will be blocked by [Gatekeeper](https://disable-gatekeeper.github.io/), which says 'This application is damaged' and will not let you open it.
